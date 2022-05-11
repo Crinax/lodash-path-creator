@@ -1,0 +1,1 @@
+module.exports=function(){let p='';const e=()=>new Proxy({},{get:(t,k,r)=>(k=='$'?((()=>{let c=p;p='';return c})()):((Reflect.has(t,k)||Reflect.set(t,k,e()),p==''?p+=k:p+='.'+k),Reflect.get(t,k,r)))});return e();};

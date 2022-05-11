@@ -1,0 +1,27 @@
+{
+  "name": "lodash-path-creator",
+  "version": "1.0.0",
+  "description": "Simple, smallest and zero-dep library for node.js :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crinax/lodash-path-creator.git"
+  },
+  "keywords": [
+    "lodash",
+    "path",
+    "creator",
+    "lodash-path",
+    "lodash-path-creator",
+    "path-creator"
+  ],
+  "author": "Crinax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Crinax/lodash-path-creator/issues"
+  },
+  "homepage": "https://github.com/Crinax/lodash-path-creator#readme"
+}
